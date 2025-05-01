@@ -1,7 +1,7 @@
 # webtoddler
 A Learning Project - simple and limited webcrawler
 
-**Web Toddler** is a minimal C++ web crawler that downloads HTML pages and extracts links using `libcurl` and `Lexbor`. The crawler has many limitations. I made this to learn the basics of libcurl and parsing webpages using libraries like lexbor.
+**Web Toddler** is a minimal C++ web crawler that downloads HTML pages and extracts links using `libcurl` and `Lexbor`. The crawler has many limitations. I made this to learn the basics of libcurl and parsing webpages using libraries like lexbor. I have also learnt how to implement a DFS(Depth-First-Search) algorithm to use it to extract links from the DOM tree.
 
 ---
 
